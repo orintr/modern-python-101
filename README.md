@@ -1,4 +1,5 @@
 # Modern Python 101 - Thinking With Types
+###
 
 !["Modern Python"](assets/twitter_octallium_modern_python_101_1.png)
 
